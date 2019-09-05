@@ -1,11 +1,1 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicodddfdsfe"
-  }
-}
+[{"slNo":1,"divCode":"10","divName":"Barisal","geoDistricts":[]},{"slNo":2,"divCode":"20","divName":"Chittagong","geoDistricts":[]},{"slNo":3,"divCode":"30","divName":"Dhaka","geoDistricts":[]},{"slNo":4,"divCode":"40","divName":"Khulna","geoDistricts":[]},{"slNo":5,"divCode":"50","divName":"Rajshahi","geoDistricts":[]},{"slNo":6,"divCode":"55","divName":"Rangpur","geoDistricts":[]},{"slNo":7,"divCode":"60","divName":"Sylhet","geoDistricts":[]}]
